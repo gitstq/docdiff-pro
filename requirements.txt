@@ -1,0 +1,16 @@
+# DocDiff Pro - 智能文档差异分析引擎
+# 依赖说明：所有依赖均为可选，核心功能零依赖运行
+
+# 增强PDF解析支持（可选）
+PyPDF2>=3.0.0
+
+# 增强Word文档支持（可选）
+python-docx>=0.8.11
+
+# 开发依赖
+coverage>=6.0
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=1.0.0
